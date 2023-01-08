@@ -75,21 +75,6 @@
         }
       ]
     },
-    "ShigoIslands": {
-      "LatitudeShift": 50.0017776,
-      "LatitudeDivisor": 9562.0,
-      "LongitudeShift": 50.0017776,
-      "LongitudeDivisor": 9562.0,
-      "Images": [
-        {
-          "FilePath": "Resources\\MapImages\\ShigoIslands.jpg",
-          "TopEdgeLatitude": -2.0,
-          "LeftEdgeLongitude": -1.6,
-          "RightEdgeLongitude": 99.8,
-          "BottomEdgeLatitude": 101.0
-        }
-      ]
-    },
     "Ragnarok": {
       "LatitudeShift": 50.009388,
       "LatitudeDivisor": 13100.0,
@@ -102,21 +87,6 @@
           "LeftEdgeLongitude": 0.0,
           "RightEdgeLongitude": 100.0,
           "BottomEdgeLatitude": 100.0
-        }
-      ]
-    },
-    "TheVolcano": {
-      "LatitudeShift": 50.0,
-      "LatitudeDivisor": 9181.0,
-      "LongitudeShift": 50.0,
-      "LongitudeDivisor": 9181.0,
-      "Images": [
-        {
-          "FilePath": "Resources\\MapImages\\TheVolcano.jpg",
-          "TopEdgeLatitude": -1.95,
-          "LeftEdgeLongitude": -1.3,
-          "RightEdgeLongitude": 99.5,
-          "BottomEdgeLatitude": 100.7
         }
       ]
     },
@@ -165,26 +135,50 @@
         }
       ]
     },
-    "Valhalla": {
-      "LatitudeShift": 48.81356,
-      "LatitudeDivisor": 14750.0,
-      "LongitudeShift": 48.81356,
-      "LongitudeDivisor": 14750.0,
-      "Images": []
+    "Gen2": {
+      "LatitudeShift": 49.6552,
+      "LatitudeDivisor": 14500,
+      "LongitudeShift": 49.6552,
+      "LongitudeDivisor": 14500,
+      "Images": [
+        {
+          "FilePath": "Resources\\MapImages\\gen2.png",
+          "TopEdgeLatitude": 0,
+          "LeftEdgeLongitude": 0,
+          "RightEdgeLongitude": 100,
+          "BottomEdgeLatitude": 100
+        }
+      ]
     },
-    "MortemTupiu": {
-      "LatitudeShift": 32.47915,
-      "LatitudeDivisor": 20000.0,
-      "LongitudeShift": 40.598938,
-      "LongitudeDivisor": 16000.0,
-      "Images": []
+    "LostIsland": {
+      "LatitudeShift": 48.75,
+      "LatitudeDivisor": 16000.0,
+      "LongitudeShift": 50.0,
+      "LongitudeDivisor": 17000.0,
+      "Images": [
+        {
+          "FilePath": "Resources\\MapImages\\lostisland.png",
+          "TopEdgeLatitude": 0,
+          "LeftEdgeLongitude": 0,
+          "RightEdgeLongitude": 100.0,
+          "BottomEdgeLatitude": 100.0
+        }
+      ]
     },
-    "PGARK": {
-      "LatitudeShift": 0.0,
-      "LatitudeDivisor": 6080.0,
-      "LongitudeShift": 0.0,
-      "LongitudeDivisor": 6080.0,
-      "Images": []
+    "Fjordur": {
+      "LatitudeShift": 50.0,
+      "LatitudeDivisor": 7141.0,
+      "LongitudeShift": 50.0,
+      "LongitudeDivisor": 7141.0,
+      "Images": [
+        {
+          "FilePath": "Resources\\MapImages\\fjordur.png",
+          "TopEdgeLatitude": 0.0,
+          "LeftEdgeLongitude": 0.0,
+          "RightEdgeLongitude": 99.9,
+          "BottomEdgeLatitude": 99.9
+        }
+      ]
     }
   },
   "ObjectTypes": {
